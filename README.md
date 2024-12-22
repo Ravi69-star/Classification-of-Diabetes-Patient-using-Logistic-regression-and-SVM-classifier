@@ -1,0 +1,1 @@
+# Classification-of-Diabetes-Patient-using-Logistic-regression-and-SVM-classifier
